@@ -1,4 +1,4 @@
-<h1>World Robot Olympiad 2022 <i>Team VietRobot12: Vietnam representative</i></h1>
+<h1>World Robot Olympiad 2022 - Team <i>VietRobot12</i></h1>
 <h2>1. Overview</h2>
 <h3>  a. The competition </h3>
 <h3>  b. Our team </h3>
