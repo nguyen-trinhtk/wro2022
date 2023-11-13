@@ -1,4 +1,6 @@
 <h1>World Robot Olympiad 2022 - Team <i>VietRobot12</i></h1>
+<p>Sample run video: </p>
+https://github.com/nguyen-trinhtk/wro2022/assets/125171883/8079cbbb-647d-42bf-8de3-8fd9d3eb6fc4
 <h2>1. Overview</h2>
 <h3>  a. The competition </h3>
 <p>The World Robot Olympiad is a well-known annual international competition for young robotics enthusiasts, attracting more than 28,000 teams from more than 85 countries. This competition uses Lego Mindstorms and SPIKE, manufactured by LEGO Education.</p>
@@ -16,9 +18,7 @@
 <p>For a better understanding of our design, see our <a href="https://github.com/nguyen-trinhtk/wro2022/blob/main/detached-model.io">3D Design file</a>.</p>
 <h3>  b. Algorithms explanation </h3>
 <p>Our chosen path for the robot is depicted in the following picture: </p> https://github.com/nguyen-trinhtk/wro2022/assets/125171883/5a9f2005-1428-4cd5-b8c2-82e174627bc8
-<p>Sample run video: </p>
 
-https://github.com/nguyen-trinhtk/wro2022/assets/125171883/8079cbbb-647d-42bf-8de3-8fd9d3eb6fc4
 
 
 <p>In this repository, I have included different code versions for this robot, divided into two periods: May-August (National Round preparation) and August-November (International Round prep). Since it is difficult to stabilize its performance, we have made a lot of improvements.</p>
