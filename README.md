@@ -1,6 +1,10 @@
 <h1>World Robot Olympiad 2022 - Team <i>VietRobot12</i></h1>
 <p>Sample run video: </p>
-https://github.com/nguyen-trinhtk/wro2022/assets/125171883/8079cbbb-647d-42bf-8de3-8fd9d3eb6fc4
+
+
+https://github.com/nguyen-trinhtk/wro2022/assets/125171883/7a447ee2-f132-49eb-ab8e-f6eca122c402
+
+
 <h2>1. Overview</h2>
 <h3>  a. The competition </h3>
 <p>The World Robot Olympiad is a well-known annual international competition for young robotics enthusiasts, attracting more than 28,000 teams from more than 85 countries. This competition uses Lego Mindstorms and SPIKE, manufactured by LEGO Education.</p>
